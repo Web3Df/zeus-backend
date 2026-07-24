@@ -1,0 +1,16 @@
+{
+  "libraryId": "BIBLIOTECA_OFICIAL_ZEUS",
+  "version": "1.0.0",
+  "status": "OFICIAL",
+  "hashAlgorithm": "sha256",
+  "artifacts": [
+    {
+      "id": "ARQUITETURA_BIBLIOTECA_OFICIAL_ZEUS_V1",
+      "version": "1.0.0",
+      "path": "artefatos/arquitetura.js",
+      "sha256": "bcfe3d1ca2c6ee18102600f9f86d516e2daf5bef7d9bf4b7f916b9737274935b",
+      "required": true,
+      "export": "ZEUS_LIBRARY_COMPONENT"
+    }
+  ]
+}
