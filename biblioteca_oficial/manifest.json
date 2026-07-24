@@ -2,6 +2,7 @@
   "libraryId": "BIBLIOTECA_OFICIAL_ZEUS",
   "version": "1.0.0",
   "status": "OFICIAL",
+  "origin": "INTERNA_AUTOSSUFICIENTE",
   "hashAlgorithm": "sha256",
   "artifacts": [
     {
